@@ -25,9 +25,9 @@ dl dt {
 }
 
 .photo-effects {
-	-moz-box-shadow: 10px 10px 5px #888;
+	/*-moz-box-shadow: 10px 10px 5px #888;
 	-webkit-box-shadow: 10px 10px 5px #888;
-	box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px #888;*/
 	height:330px;
 	border: 5px solid #404040;
 }

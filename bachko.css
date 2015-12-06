@@ -1,0 +1,54 @@
+html, body {
+	font-family: 'PT Sans', sans-serif;
+	background: url(images/whitey.png) repeat;
+}
+
+h1 {
+	font-family: 'Fredericka the Great', cursive;
+	font-size: 6em;
+	margin: 30px 0;
+	padding-bottom: 30px;
+	border-bottom: 5px solid #404040;
+}
+
+.photo-size {	
+	width: 330px;
+}
+
+dl dt, dl dd {
+  line-height: 26px;
+}
+dl dt {
+  font-weight: normal;
+	font-style: italic;
+	color:#404040;
+}
+
+.photo-effects {
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px #888;
+	height:330px;
+	border: 5px solid #404040;
+}
+
+a {
+  color: #47adc1;
+  text-decoration: none;
+}
+a:hover {
+  color: #47adc1;
+  text-decoration: underline;
+}
+
+footer {
+  border-top: 1px solid #808080;
+}
+
+#contact {
+	margin-top: 10px;
+}
+
+.recent {
+	height: 32px;
+}
